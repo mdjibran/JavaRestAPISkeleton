@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Rest API Demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jibran
+Implementation-Vendor-Id: com.restapidemo
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/RestApiDemoP
+ roject/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
